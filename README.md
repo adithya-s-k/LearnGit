@@ -1,0 +1,1 @@
+*This repository was created inorder for me to learn all the git command and how the branching and merging system works and how i can best use it to manage my projects.
